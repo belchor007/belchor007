@@ -7,7 +7,7 @@
 
 ![belchor007 GitHub stats](https://github-readme-stats.vercel.app/api?username=belchor007&show_icons=true&theme=dark)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia-dia
 
 <div style="display: inline_black"></br>
 
