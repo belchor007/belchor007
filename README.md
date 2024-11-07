@@ -1,4 +1,4 @@
-### Sou Davi Belchor 🧑🏽‍💻  Estudante de Análise e Desenvolvimento de Sistemas.
+### Sou Davi Belchor 🧑🏽‍💻 
  
 ## 🛠 Áreas:
 ### • Desenvolvimento Back-End 💻
