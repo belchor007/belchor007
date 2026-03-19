@@ -47,7 +47,7 @@ Git, VS Code
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/davibelchor/
 - Email: davibelchor3@gmail.com
