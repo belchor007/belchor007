@@ -1,49 +1,53 @@
-### Sou Davi Belchor 🧑🏽‍💻 
- 
-## 🛠 Áreas:
-### • Desenvolvedor Full Stack 💻
+# Olá, meu nome é Davi Belchor 👨🏽‍💻
 
-## Social:
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davibelchor/)
+Analista de Suporte Técnico com experiência em ambientes NOC, resolução de problemas de rede e suporte a sistemas.
+Focado na resolução de problemas reais envolvendo infraestrutura, aplicações e bancos de dados.
 
-## Contato:
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibelkyor@gmail.com?subject=davibelkyor@gmail.com&body=davibelkyor@gmail.com)
+---
 
-## Tecnologias:
+## 🧠 O que eu faço
 
-<div style="display: inline_black"></br>
+- Monitoramento e resolução de problemas de rede (TCP/IP, LAN/WAN, SD-WAN)
+- Gerenciamento de incidentes e suporte em ambientes NOC
+- SQL (MySQL) para validação de dados e resolução de problemas
+- Desenvolvimento backend com PHP (Laravel)
 
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+---
 
-## Frameworks:
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
+## 🚀 Projetos
 
-## Ferramentas:
+### 📌 Task Management System 
+Uma aplicação web para gerenciar tarefas diárias com operações CRUD e integração com banco de dados.
+Demonstra a lógica de backend, o uso de SQL e a funcionalidade do sistema.
 
-[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)]()
+### 📌 Institutional Website 
+Aplicação web responsiva construída com arquitetura MVC e renderização de conteúdo dinâmico.
 
-![belchor007's Stats](https://github-readme-stats.vercel.app/api?username=belchor007&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+---
 
-![belchor007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belchor007&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+## 🛠 Tech Stack
 
+**Backend:**  
+PHP, Laravel, Java Script
 
+**Database:**  
+MySQL, SQL  
 
+**Infrastructure & Support:**  
+TCP/IP, Windows Server, Networking, Troubleshooting  
 
+**Tools:**  
+Git, VS Code  
 
+---
 
+## 📊 GitHub Stats
 
-</div></br>
+![Stats](https://github-readme-stats.vercel.app/api?username=belchor007&show_icons=true&theme=default)
 
+---
 
+## 📫 Contact
 
-Adquirindo conhecimento para aprimorar minhas habilidaddes
-
-
-
-
-
+- LinkedIn: https://www.linkedin.com/in/davibelchor/
+- Email: davibelchor3@gmail.com
