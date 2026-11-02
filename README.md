@@ -1,53 +1,44 @@
-# Olá, meu nome é Davi Belchor 👨🏽‍💻
+# Davi Belchor
 
-Analista de Suporte Técnico com experiência em ambientes NOC, resolução de problemas de rede e suporte a sistemas.
-Focado na resolução de problemas reais envolvendo infraestrutura, aplicações e bancos de dados.
+### Analista de Suporte Pleno · Redes · Infraestrutura · NOC
 
----
+Investigo incidentes, acompanho a disponibilidade de serviços e apoio a operação de ambientes corporativos. Minha experiência reúne suporte técnico, troubleshooting de redes e análise de sistemas e dados.
 
-## 🧠 O que eu faço
-
-- Monitoramento e resolução de problemas de rede (TCP/IP, LAN/WAN, SD-WAN)
-- Gerenciamento de incidentes e suporte em ambientes NOC
-- SQL (MySQL) para validação de dados e resolução de problemas
-- Desenvolvimento backend com PHP (Laravel)
+> **Meu foco:** transformar sinais e relatos de falha em diagnósticos claros, ações rastreáveis e encaminhamentos bem documentados.
 
 ---
 
-## 🚀 Projetos
+## 🧭 Atuação
 
-### 📌 Task Management System 
-Uma aplicação web para gerenciar tarefas diárias com operações CRUD e integração com banco de dados.
-Demonstra a lógica de backend, o uso de SQL e a funcionalidade do sistema.
+- Monitoramento e tratamento de incidentes em ambiente NOC
+- Troubleshooting de TCP/IP, LAN/WAN, roteamento, SD-WAN e GPON
+- Análise de conectividade, logs e evidências técnicas
+- Acompanhamento de chamados conforme prioridade e SLA
+- Suporte a aplicações e investigação de dados com SQL/MySQL
 
-### 📌 Institutional Website 
-Aplicação web responsiva construída com arquitetura MVC e renderização de conteúdo dinâmico.
+## 🧰 Tecnologias
 
----
+**Redes e infraestrutura**  
+`TCP/IP` `LAN/WAN` `SD-WAN` `GPON` `Roteamento` `Cisco` `Fortinet` `VeloCloud` `Windows Server`
 
-## 🛠 Tech Stack
+**Suporte e ferramentas**  
+`Troubleshooting` `Monitoramento` `PowerShell` `Git`
 
-**Backend:**  
-PHP, Laravel, Java Script
+**Desenvolvimento e dados**  
+`PHP` `Laravel` `JavaScript` `MySQL` `SQL`
 
-**Database:**  
-MySQL, SQL  
+## 🚀 Projetos em destaque
 
-**Infrastructure & Support:**  
-TCP/IP, Windows Server, Networking, Troubleshooting  
+### [App Produtiv](https://github.com/belchor007/proj-app-produtiv)
+Gerenciador de tarefas desenvolvido com PHP, Laravel e Bootstrap. Permite criar, editar, selecionar e excluir tarefas, com autenticação e persistência em banco de dados.
 
-**Tools:**  
-Git, VS Code  
+**Demonstra:** desenvolvimento backend, operações CRUD, integração com banco de dados e organização de uma aplicação web.
 
----
+### [Scott Tattoo — site institucional](https://github.com/belchor007/proj-scott-tatto)
+Site responsivo desenvolvido com Laravel e Blade para apresentar os serviços de um estúdio, com conteúdo dinâmico e estrutura MVC.
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=belchor007&show_icons=true&theme=default)
-
----
+**Demonstra:** construção de páginas responsivas, uso de templates e organização de aplicação Laravel.
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/davibelchor/
-- Email: davibelchor3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/davibelchor/) · [E-mail](mailto:davibelchor3@gmail.com)
