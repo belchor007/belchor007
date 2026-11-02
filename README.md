@@ -8,7 +8,7 @@ Investigo incidentes, acompanho a disponibilidade de serviços e apoio a operaç
 
 ---
 
-## 🧭 Atuação
+##  Atuação
 
 - Monitoramento e tratamento de incidentes em ambiente NOC
 - Troubleshooting de TCP/IP, LAN/WAN, roteamento, SD-WAN e GPON
@@ -16,7 +16,7 @@ Investigo incidentes, acompanho a disponibilidade de serviços e apoio a operaç
 - Acompanhamento de chamados conforme prioridade e SLA
 - Suporte a aplicações e investigação de dados com SQL/MySQL
 
-## 🧰 Tecnologias
+##  Tecnologias
 
 **Redes e infraestrutura**  
 `TCP/IP` `LAN/WAN` `SD-WAN` `GPON` `Roteamento` `Cisco` `Fortinet` `VeloCloud` `Windows Server`
@@ -27,7 +27,7 @@ Investigo incidentes, acompanho a disponibilidade de serviços e apoio a operaç
 **Desenvolvimento e dados**  
 `PHP` `Laravel` `JavaScript` `MySQL` `SQL`
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 ### [App Produtiv](https://github.com/belchor007/proj-app-produtiv)
 Gerenciador de tarefas desenvolvido com PHP, Laravel e Bootstrap. Permite criar, editar, selecionar e excluir tarefas, com autenticação e persistência em banco de dados.
@@ -39,6 +39,6 @@ Site responsivo desenvolvido com Laravel e Blade para apresentar os serviços de
 
 **Demonstra:** construção de páginas responsivas, uso de templates e organização de aplicação Laravel.
 
-## 📫 Contato
+##  Contato
 
 [LinkedIn](https://www.linkedin.com/in/davibelchor/) · [E-mail](mailto:davibelchor3@gmail.com)
