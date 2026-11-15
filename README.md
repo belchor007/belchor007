@@ -22,17 +22,25 @@ TCP/IP · LAN/WAN · Roteamento · SD-WAN · GPON · Cisco · Fortinet · VeloCl
 
 ## Projetos em destaque
 
-### [App Produtiv](https://github.com/belchor007/proj-app-produtiv)
+### NOC Intelligence GPC · Repositório privado
 
-Gerenciador de tarefas desenvolvido com PHP, Laravel e Bootstrap. Permite criar, editar, selecionar e excluir tarefas, com autenticação e persistência em banco de dados.
+Plataforma de apoio à operação NOC, com painel web, API Python e extensão de navegador. Reúne automações de consulta técnica, resultados revisáveis e acompanhamento do histórico de tickets, mantendo a análise final sob controle do operador.
 
-**Demonstra:** desenvolvimento backend, operações CRUD, integração com banco de dados e organização de uma aplicação web.
+**Tecnologias:** Python · FastAPI · React · JavaScript · Selenium
 
-### [Scott Tattoo — site institucional](https://github.com/belchor007/proj-scott-tatto)
+### Sonar Coletor · Repositório privado
 
-Site responsivo desenvolvido com Laravel e Blade para apresentar os serviços de um estúdio, com conteúdo dinâmico e estrutura MVC.
+Extensão Chrome que captura, por ação do usuário, informações já exibidas na interface autenticada do Sonar. Organiza o conteúdo para revisão e exportação local, sem integração por API.
 
-**Demonstra:** construção de páginas responsivas, uso de templates e organização de aplicação Laravel.
+**Tecnologias:** JavaScript · Chrome Extensions · DOM
+
+### Auto GRC · Repositório privado
+
+Extensão Chrome que automatiza etapas repetitivas de um fluxo operacional no GOV, com execução iniciada pelo usuário na aba selecionada e controles para acompanhar ou cancelar a automação.
+
+**Tecnologias:** JavaScript · Chrome Extensions · DOM
+
+Os repositórios são privados e não incluem dados reais de operação nesta página.
 
 ## Contato
 
