@@ -1,7 +1,5 @@
 # Davi Belchor
 
-### Desenvolvedor Full Stack & Analista NOC | Python, JavaScript, PHP, SQL | APIs | Automação e Integrações
-
 Sou Analista de Suporte Pleno em uma operação NOC. Acompanho redes de clientes governamentais em ambientes com diferentes tecnologias e topologias. No dia a dia, monitoro links e equipamentos, analiso alarmes e degradações, faço troubleshooting de TCP/IP, LAN/WAN, roteamento, SD-WAN e GPON e registro evidências e ações durante o tratamento dos incidentes. Tenho vivência com Cisco, Fortinet e VeloCloud.
 
 Estou direcionando minha carreira para desenvolvimento de software, com foco em Python, automação de processos e integrações. Em projetos práticos, venho trabalhando com Python/FastAPI, Selenium, JavaScript, PHP/Laravel, SQL/MySQL e Git. 
