@@ -38,4 +38,4 @@ Site responsivo desenvolvido com Laravel e Blade para apresentar os serviços de
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/davibelchor/) · [E-mail](mailto:davibelkyor@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/davibelchor/) · [E-mail](mailto:davibelchor3@gmail.com)
