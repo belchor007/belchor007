@@ -36,11 +36,9 @@ Extensão Chrome que captura, por ação do usuário, informações já exibidas
 
 ### Auto GRC · Repositório privado
 
-Extensão Chrome que automatiza etapas repetitivas de um fluxo operacional no GOV, com execução iniciada pelo usuário na aba selecionada e controles para acompanhar ou cancelar a automação.
+Extensão Chrome que automatiza etapas repetitivas de um fluxo operacional no GOV (Sistema privado legado), com execução iniciada pelo usuário na aba selecionada e controles para acompanhar ou cancelar a automação.
 
 **Tecnologias:** JavaScript · Chrome Extensions · DOM
-
-Os repositórios são privados e não incluem dados reais de operação nesta página.
 
 ## Contato
 
