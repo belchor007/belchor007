@@ -1,26 +1,24 @@
 # Davi Belchor
 
-### Desenvolvedor Full Stack & Analista NOC
-
-`Python` · `JavaScript` · `PHP` · `SQL` · `APIs` · `Automação e Integrações`
+### Desenvolvedor Full Stack & Analista NOC | Python, JavaScript, PHP, SQL | APIs | Automação e Integrações
 
 Sou Analista de Suporte Pleno em uma operação NOC. Acompanho redes de clientes governamentais em ambientes com diferentes tecnologias e topologias. No dia a dia, monitoro links e equipamentos, analiso alarmes e degradações, faço troubleshooting de TCP/IP, LAN/WAN, roteamento, SD-WAN e GPON e registro evidências e ações durante o tratamento dos incidentes. Tenho vivência com Cisco, Fortinet e VeloCloud.
 
-Estou direcionando minha carreira para desenvolvimento de software, com foco em Python, automação de processos e integrações. Em projetos práticos, venho trabalhando com Python/FastAPI, Selenium, JavaScript, PHP/Laravel, SQL/MySQL e Git. Quero aplicar a programação em problemas reais de operação. Busco oportunidades em desenvolvimento de software.
+Estou direcionando minha carreira para desenvolvimento de software, com foco em Python, automação de processos e integrações. Em projetos práticos, venho trabalhando com Python/FastAPI, Selenium, JavaScript, PHP/Laravel, SQL/MySQL e Git. Quero aplicar a programação em problemas reais de operação e busco oportunidades em desenvolvimento de software.
 
 ---
 
 ## Áreas de atuação
 
-Desenvolvimento Full Stack · NOC · Suporte N1 · Redes
+Desenvolvimento · NOC · Suporte N1 · Redes
 
 ## Tecnologias
 
 **Desenvolvimento e automação**  
-`Python` `FastAPI` `Selenium` `JavaScript` `PHP` `Laravel` `SQL` `MySQL` `APIs REST` `Git`
+Python · FastAPI · Selenium · JavaScript · PHP · Laravel · SQL · MySQL · APIs REST · Git
 
 **Redes e infraestrutura**  
-`TCP/IP` `LAN/WAN` `Roteamento` `SD-WAN` `GPON` `Cisco` `Fortinet` `VeloCloud`
+TCP/IP · LAN/WAN · Roteamento · SD-WAN · GPON · Cisco · Fortinet · VeloCloud
 
 ## Projetos em destaque
 
