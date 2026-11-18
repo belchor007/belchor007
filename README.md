@@ -40,6 +40,18 @@ Extensão Chrome que automatiza etapas repetitivas de um fluxo operacional no GO
 
 **Tecnologias:** JavaScript · Chrome Extensions · DOM
 
+### [App Produtiv](https://github.com/belchor007/proj-app-produtiv)
+
+Aplicação web para gerenciar tarefas. Permite criar uma conta, fazer login e criar, editar, concluir e excluir tarefas.
+
+**Tecnologias:** PHP · Laravel · Bootstrap
+
+### Event Assist · Repositório privado
+
+Extensão para Chrome e Edge que preenche formulários de registro de incidentes a partir de poucos dados. O analista revisa os campos e confirma o envio na página de destino.
+
+**Tecnologias:** JavaScript · Chrome Extensions · DOM
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/davibelchor/) · [E-mail](mailto:davibelchor3@gmail.com)
